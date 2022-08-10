@@ -1,7 +1,7 @@
 # Docker-Python-Torch-CV-Contrib
  Docker Image
 
-Kindly run the below cmd to build your own Pyhton-CV image:
+Kindly run this cmd to build your own Pyhton-CV image:
 docker build . -t "IMAGE_NAME"
 
 Python Version:
